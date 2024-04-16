@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+/* Custom CSS */
+.category-btn {
+    cursor: pointer;
+    outline: none;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+
+
+/* .category-videos {
+    gap: 20px;
+} */
+
+.no-content-section {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.no-content-section img {
+    max-width: 100%;
+    height: auto;
+}
+
+.logo{
+    width: 150px;
+}
+
+
+
+#sort-by-view{
+    color: black;
+    font-size: 18px;
+    
+}
